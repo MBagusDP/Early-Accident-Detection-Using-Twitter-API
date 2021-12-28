@@ -12,4 +12,6 @@ In this application, you will find:
 Details regarding this applications can be found in the following link:
 https://rpubs.com/MBagusDP/Early_Detection_of_Accident_From_Twitter
 
-![]preview1.png
+![](preview1.png)
+
+![](preview2.png)
