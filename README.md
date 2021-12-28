@@ -1,6 +1,6 @@
 # Early-Accident-Detection-Using-Twitter-API
 
-App_preview.mp4
+<p align="center"><img src="App_preview.gif></p>
 
 In today’s society, people are always using their computer devices, especially smartphone. Through many applications inside the phone, we can easily find any information that we desired. Nowadays, news that are updated through Social Media applications can be obtained faster than the information that are searched manually through the internet browser, or news that are presented through a Television, given the option that many Social Media applications are allowing the users to spread their own opinion freely. An application goes by the name Twitter allowing us to gain information faster than any Social Media available today. This platform is used to share their thoughts about many kind of things that are happening in their lives, or share the latest news with the aim to make it go viral or a trending news where everyone can see. Unlike any other Social Media, Twitter have this features where you can repost a tweet called retweet. the more retweet that our tweet gets, the faster our tweet will spread.
 
